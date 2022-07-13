@@ -1,0 +1,10 @@
+Create Maven Project
+Update pom.xml
+Create Page Objects
+Create Basic Test Case (include Base class)
+Add logs to test case
+Read common values from properties file
+Run test case on desired browser
+Add extent report (extent-config.xml, lestenerClass(Reporting.java)--> utility package
+Create Data Driven test case (Apache poi dependencies, xlsx(Excel) file (Test data), XLUtils.java...@DataProvider)
+Adding new test cases (POM, testcase class)
